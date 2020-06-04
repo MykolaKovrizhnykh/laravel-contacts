@@ -48,7 +48,7 @@
         "jackpopp/geodistance": "^1.2.0",
         "propaganistas/laravel-phone": "^4.2.0",
         "rinvex/laravel-cacheable": "^3.0.0",
-        "rinvex/countries": "^7.0.0",
+        "rinvex/countries": "^6.0.0",
         "rinvex/languages": "^5.0.0",
         "rinvex/laravel-support": "^4.0.0"
     },
